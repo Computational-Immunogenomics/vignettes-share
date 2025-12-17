@@ -1,0 +1,1 @@
+select * from hmfpatients.geneCopyNumber where gene in ("HLA-A", "HLA-B", "HLA-C", "B2M", "CALR", "TAP1", "TAP2", "TAPBP", "NLRC5", "CIITA", "RFX5","JAK1", "JAK2", "IRF2", "IFNGR1", "IFNGR2", "APLNR", "STAT1", "CD274", "CD58", "SETDB1");
